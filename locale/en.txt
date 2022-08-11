@@ -1,0 +1,86 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = The Hill District Club
+
+## Skin
+
+### Tooltip
+IconButton_069AFCF9_1C9E_98F8_41AA_EDF2EF9939E8.toolTip = Show all buttons
+IconButton_11F8C692_1C82_6B0B_41B2_28931AB2B43D.toolTip = Previous panorama
+IconButton_128B7B91_1C86_7909_41B8_9320D8E0D421.toolTip = Next panorama
+IconButton_128BCB90_1C86_7907_41B3_46B5B135C181.toolTip = Hide all buttons
+IconButton_1297FF98_1C82_9907_41AD_A09E1EA44354.toolTip = Panorama List
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+IconButton_3BD6FE66_1C9E_9B08_41AE_65363919CAD0.toolTip = Previous panorama
+IconButton_3BF02F26_1C9E_990B_419B_60D4788D76C9.toolTip = Next panorama
+IconButton_947134C4_BDC5_71C9_41D9_FCDAA48E54E1.toolTip = Photo Album
+IconButton_947134C4_BDC5_71C9_41D9_FCDAA48E54E1_mobile.toolTip = Photo Album
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801.toolTip = Visit website
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801_mobile.toolTip = Visit website
+
+## Media
+
+### Title
+album_BA794333_A58A_6BA0_41B1_3A27685CBBEE.label = Hill District Club
+album_BA794333_A58A_6BA0_41B1_3A27685CBBEE_0.label = _1149305
+album_BA794333_A58A_6BA0_41B1_3A27685CBBEE_1.label = _9092546
+album_BA794333_A58A_6BA0_41B1_3A27685CBBEE_2.label = 73996091
+album_BA794333_A58A_6BA0_41B1_3A27685CBBEE_3.label = Club Overview1
+album_BA794333_A58A_6BA0_41B1_3A27685CBBEE_4.label = Club Overview2
+album_BA794333_A58A_6BA0_41B1_3A27685CBBEE_5.label = Deluxe Room
+album_BA794333_A58A_6BA0_41B1_3A27685CBBEE_6.label = Reception
+album_BA794333_A58A_6BA0_41B1_3A27685CBBEE_7.label = Room Building
+album_BA794333_A58A_6BA0_41B1_3A27685CBBEE_8.label = Swimming Pool 2
+album_BA794333_A58A_6BA0_41B1_3A27685CBBEE_9.label = Swimming Pool
+panorama_AEB72BB2_A58A_3AA1_41D7_AF3EBF388E4B.label = Club Entrance
+panorama_AFD85BAE_A58A_1AA0_41E3_B70CD6948F50.label = Activity Area
+panorama_AFD88CBD_A58A_3EA0_41E1_36B8D03F68C8.label = Club Rooms
+panorama_AFD89D91_A58A_7F60_41DA_B46C7D437A8B.label = Recption
+panorama_AFD8AFEF_A58A_1AA0_41AA_9337B1DFD850.label = Coffee bean - Deluxe room
+panorama_AFD8BACD_A58A_3AE0_41E3_EDDA72D138DB.label = Auditorium
+panorama_AFD8C8ED_A58A_26A0_41DE_B03CD5CFAD4B.label = The Hill District Club
+panorama_AFD8CC58_A58A_1DE0_41E3_30A86E097DFE.label = Reception
+panorama_AFD8D488_A58A_2D60_41C6_CBC75ED53619.label = Washroom - Pepper
+panorama_AFD8F212_A58A_2560_41E4_9D9F78141B49.label = Wahroom -  Coffee bean
+panorama_AFD8FABF_A58A_7AA0_41C6_C6BF1A2D62DA.label = Pepper - Family Room
+panorama_AFD927A5_A58A_6AA0_41C9_0DBA456EC63A.label = Pepper - Family Room
+panorama_AFD958B3_A58B_E6A0_41D5_6DFC0EAED2C7.label = Activity Area
+panorama_AFD95D47_A58A_1FE0_41D6_7E61F4B76272.label = Reception - Club Rooms
+panorama_AFD96AD3_A58A_FAE0_41E3_92B6EB271C7E.label = Jogging Track
+panorama_AFD96AE0_A58A_1AA0_41DD_768621456A40.label = Activity Area
+panorama_AFD97BAF_A58A_1AA0_41DA_C58A1A74AAFD.label = Activity Area
+panorama_AFD987F8_A58B_EAA0_41E0_2A5BF08D348C.label = Activity Area
+panorama_AFD9AA14_A58A_2560_41CC_6AC38B52F668.label = Activity Area
+panorama_AFD9BC9F_A58A_3D60_41E2_53CF26D75BB0.label = Food Court
+panorama_AFD9EAF6_A58A_7AA0_41E0_F472F1258887.label = Jogging Track
+panorama_AFD9EBD9_A58A_1AE0_41D1_A2F804B21180.label = Poolside
+panorama_AFDB01F4_A58E_66A0_41BD_FB6A3189451E.label = Cinnamon -  Delux Room
+panorama_AFDB1773_A58E_2BA0_41D0_090388A0139E.label = Cinnamon -  Delux Room
+panorama_AFDB1D29_A589_FFA0_41E1_4C3677A41A38.label = Coffee bean - Deluxe room
+panorama_AFDB7A3F_A589_E5A0_41CB_9CFA83499305.label = Balcony - Coffee bean
+panorama_AFDBB447_A58E_2DE0_41B1_C7CA7DC6BA03.label = Washroom - Cinnamon
+panorama_AFDBCEF9_A58E_7AA0_41DD_9695D82B79A9.label = Balcony - Cinnamon
+panorama_AFDBDE48_A58A_1DE0_41E1_21B62AEBA4C0.label = The Hill District Club
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_AA5B0AA9_A58A_3AA0_41B1_121DD99ABD65.toolTip = Reception
+HotspotPanoramaOverlayArea_AA75FA5D_A58A_65E0_41D2_F064D704002E.toolTip = Auditorium
+HotspotPanoramaOverlayArea_AACA6417_A586_2D60_41DD_A5208C65E167.toolTip = Reception
+HotspotPanoramaOverlayArea_AB0460A3_A58A_66A0_41CC_C6398E4A77E7.toolTip = Reception
+HotspotPanoramaOverlayArea_B028BDC2_A59A_3EE0_41DE_473839E76193.toolTip = Rooms
+HotspotPanoramaOverlayArea_B52300FA_A58E_E6A0_41E1_1BA24F86C267.toolTip = Activity Area
+HotspotPanoramaOverlayArea_B543ACF3_A58A_1EA0_41D9_A560790EDDB3.toolTip = Reception
+
+## Action
+
+### URL
+LinkBehaviour_AB2615D2_BE75_6AB9_41D6_4B86ED01FE33.source = https://www.hilldistrictclub.com
+LinkBehaviour_AE3BF7BD_BE15_56EB_41E6_DDD23BB66254.source = https://www.hilldistrictclub.com
